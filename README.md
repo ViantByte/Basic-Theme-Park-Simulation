@@ -1,4 +1,4 @@
-Basic Theme Park Queueing Simulation (Unity)
+Basic Theme Park Queueing Simulation (Unity) - Team Project -
 #updated version from the previous forked#
 
 A simple simulation that reflect on Queueing System in a theme park work.
